@@ -32,15 +32,6 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
-                },
-                {
-                    "name": "Jump",
-                    "type": "Button",
-                    "id": "8c3426d4-c982-4a9f-9ef2-2463faebf55b",
-                    "expectedControlType": "",
-                    "processors": "",
-                    "interactions": "",
-                    "initialStateCheck": false
                 }
             ],
             "bindings": [
@@ -261,17 +252,6 @@
                     "processors": "",
                     "groups": "XR",
                     "action": "Fire",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "6bc283fd-ea88-4e09-ac38-4c7ddf38e96f",
-                    "path": "w",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": ";Keyboard&Mouse",
-                    "action": "Jump",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
